@@ -5,12 +5,12 @@ toc: true
 enable_search: true
 menu:
   - ["About", "about.html"]
+  - ["Archive", "archive.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Github", "https://github.com/ireina7"]
 extra:
   # colorscheme_toggle: true
-  colorscheme: one
+  colorscheme: catppuccin
   static_folders:
     - extrastatic
 
