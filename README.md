@@ -1,2 +1,2 @@
-# log
-Personal blog deployed [here](https://ireina7.github.io/log/)
+# blog
+Personal blog deployed [here](https://noteoverflow.github.io/blog/)
