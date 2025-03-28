@@ -1,0 +1,18 @@
+name: Fantasia
+tagline: Rusty fantasy
+url: https://ireina7.github.io/log
+toc: true
+enable_search: true
+menu:
+  - ["About", "about.html"]
+  - ["Pages", "pages.html"]
+  - ["Tags", "tags.html"]
+  - ["Github", "https://github.com/ireina7"]
+extra:
+  # colorscheme_toggle: true
+  colorscheme: one
+  static_folders:
+    - extrastatic
+
+# More options available to customize the website
+# read on https://rochacbruno.github.io/marmite/tag/customization.html
