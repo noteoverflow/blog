@@ -3,7 +3,7 @@ tags: programming,edit
 ---
 
 
-# My progamming key bindings
+# My programming key bindings
 
 I like the idea of editing of *VIM*, but I still think this is not the best.
 Some keys of *vscode*, *emacs* and particularly *Kakoune* ans *helix* are modern.
