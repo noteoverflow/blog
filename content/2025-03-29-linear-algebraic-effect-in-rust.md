@@ -149,4 +149,4 @@ let a = run!(coroutine, arg);
 
 ## Epilogue
 This a demo implementation of algebraic effect in Rust.
-I also write a better version with *Handlers* in [crates.io/algoroutine](https://crates.io/crates/algoroutine).
+There is a better version with *Handlers* in [crates.io/algoroutine](https://crates.io/crates/algoroutine).
