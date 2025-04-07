@@ -1,0 +1,16 @@
+name: Fantasia
+tagline: Towards rusty fantasy
+url: https://noteoverflow.github.io/blog/
+toc: true
+enable_search: true
+banner_image: media/banner.jpg
+menu:
+  - ["About", "about.html"]
+  - ["Archive", "archive.html"]
+  - ["Tags", "tags.html"]
+  - ["Pages", "pages.html"]
+extra:
+  # colorscheme_toggle: true
+  colorscheme: catppuccin
+  static_folders:
+    - extrastatic
