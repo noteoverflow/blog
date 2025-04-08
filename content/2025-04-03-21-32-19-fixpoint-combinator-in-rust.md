@@ -403,7 +403,7 @@ If this diagram commutes, we say that we have relation $f$ from $F(a) \rightarro
 Various kinds of F-algebras and relations between them forms a category!
 Now we ask an interesting question:
 > [!NOTE] QUESTION
-> Does this category has initial object?
+> Does this category have initial object?
 > By *initial object*, we mean that, is there an object from which only exists one arrow to any other objects?
 
 If we have this kind of initial object $F(x) \rightarrow x$, then we can prove that $x$ is a fix point of $F$ and:
